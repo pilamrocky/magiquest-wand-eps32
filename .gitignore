@@ -34,3 +34,7 @@ google-services.json
 *.hprof
 .pio/
 .vscode/
+
+# Secrets
+secrets.h
+WAND_IDS.md
